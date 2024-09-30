@@ -1,0 +1,18 @@
+print('delhi' + ' ' + 'mumbai')
+print('delhi' * 5)
+print('*' * 10)
+print('delhi' == 'mumbai')
+print('delhi' != 'mumbai')
+print('mumbai' > 'pune')  # lexicographically comparing
+print('Pune' > 'pune')
+print('pune' > 'Pune')
+print('hello' and 'world')
+print('hello' or 'world')
+print('' and 'world')
+print('' or 'world')
+print(not '')
+print(not 'hello')
+for i in 'hello':
+    print(i)
+print('d' in 'delhi')
+print('k' in 'delhi')
