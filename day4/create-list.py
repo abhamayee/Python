@@ -21,4 +21,5 @@ print(L[-1])
 print(L[0:3])
 print(L[-4:-1])
 print(L[::-1])  # reverse the list
-
+L = [1, 2, print, type, input]
+print(L)
